@@ -1,11 +1,10 @@
-# JoeThesis
-Phenological mismatch of paleovegetation.
+# Phenological mismatch of paleovegetation.
 
+# Contributors
 
+Joseph Bevington - University of Wisconsin - Madison
 
-
-
-
+# How to use this Repository
 
 #### Running the Neotoma/Climate Script
 1.  Go to the Williams Lab Computer 
